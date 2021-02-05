@@ -1,5 +1,5 @@
 # Week3--SecantMethod
-A place to put your answers to assignment 2b.
+A place to put your answers to assignment 2a.
 That assignment is as follows:
 
 * Write a program to implement the Secant method.

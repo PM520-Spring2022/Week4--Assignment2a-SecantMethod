@@ -10,3 +10,4 @@ That assignment is as follows:
 * Write a function to show a plot of the iterations of the algorithm.
 
 Push it to this repository as a knitted .Rmd or .md of .pdf file
+This assignment is due at midnight on Friday Feb 25th.
